@@ -1,0 +1,7 @@
+.vagrant
+*.log
+.DS_Store
+*.tmp
+*.pyc
+__pycache__/
+Vagrantfile
